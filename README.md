@@ -1,5 +1,11 @@
 # Tictactoe
 
+Link To the Actual App Deployed at Firebase : https://tictactoe-8c01f.web.app
+
+- This project is based on the Fireship.io Beginner tutorial for angular
+
+Link to the tutorial : https://fireship.io/courses/angular/start-angular-beginner-tutorial/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
